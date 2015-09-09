@@ -5,3 +5,7 @@ snapshots
 project/project
 project/target
 target
+
+/.classpath
+/.project
+/.settings
